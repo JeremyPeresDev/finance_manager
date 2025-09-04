@@ -1,0 +1,21 @@
+# Dossiers de build
+build*/
+CMakeFiles/
+CMakeCache.txt
+
+# Fichiers générés
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+*.exe
+
+# Qt Creator
+*.pro.user
+*.qbs.user
+*.creator.user
+*.autosave
+
+# Logs
+*.log
